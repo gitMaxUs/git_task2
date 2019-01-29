@@ -9,3 +9,5 @@ end
 1 - commit
 2 - commit
 3 - commit
+
+Conflict (greet_Kramar)
