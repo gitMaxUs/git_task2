@@ -11,3 +11,5 @@ end
 3 - commit
 
 Conflict (greet_Kramar)
+
+4 -commit
