@@ -7,3 +7,4 @@ class Greeter
   end
 end
 1 - commit
+2 - commit
